@@ -1,2 +1,2 @@
 # primera.github.io
-theme: Hacker
+theme: minima
